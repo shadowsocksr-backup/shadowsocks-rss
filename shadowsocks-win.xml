@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#" version="2.0">
+  <channel xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#">
+    <item>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://github.com/breakwa11/shadowsocks-csharp/releases?ShadowsocksR-win-4.0.2.7z" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://github.com/breakwa11/shadowsocks-csharp/releases?ShadowsocksR-win-dotnet4.0-4.0.2.7z" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://github.com/breakwa11/shadowsocks-csharp/releases?Shadowsocks-win-4.0.2.zip" filesize="397252"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://github.com/breakwa11/shadowsocks-csharp/releases?Shadowsocks-win-dotnet4.0-4.0.2.zip" filesize="397252"></media:content>
+    </item>
+  </channel>
+</rss>
+
+
